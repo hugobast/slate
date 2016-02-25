@@ -3,7 +3,9 @@ title: API Reference
 
 language_tabs:
   - shell
-  - ruby
+  - javascript
+  - java
+  - swift
 
 includes:
   - accounts
